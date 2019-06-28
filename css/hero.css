@@ -1,5 +1,11 @@
+html, body{
+	font-family: Arial, sans-serif;
+	padding: 0px;
+	margin: 0
+}
+
 header{
-	background-color: #ff8080;
+	background-color: #ff1a1a;
 	padding: 40px 40px 40px 40px;
 	text-align: center;
 }
@@ -9,7 +15,9 @@ h1{
 	color: gold;
 }
 header img{
-	border-radius: 150px
+	border-radius: 10px
+	width:300px;
+	border: 20px solid #cc9900;
 }
 /*<header>
 	         <img src="https://segundoenfoque.com/wp-content/uploads/2018/08/mulan-disney-segundoenfoque.jpg">
