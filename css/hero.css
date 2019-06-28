@@ -19,6 +19,11 @@ header img{
 	width:300px;
 	border: 20px solid #cc9900;
 }
+
+.content{
+	max-width: 100px;
+	margin: 0 auto;
+}
 /*<header>
 	         <img src="https://segundoenfoque.com/wp-content/uploads/2018/08/mulan-disney-segundoenfoque.jpg">
 	         <h1>Mulan</h1>
