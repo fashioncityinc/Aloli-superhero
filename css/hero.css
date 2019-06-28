@@ -21,9 +21,23 @@ header img{
 }
 
 .content{
-	max-width: 100px;
+	max-width: 900px;
 	margin: 0 auto;
+	background-color: cornsilk;
+	padding: 0 20px;
 }
+
+img.big-image{
+	max-width: 100%
+}
+
+p.caption{
+	font-size: 16px;
+	color: gold
+	font-style; italic;
+}
+
+ul
 /*<header>
 	         <img src="https://segundoenfoque.com/wp-content/uploads/2018/08/mulan-disney-segundoenfoque.jpg">
 	         <h1>Mulan</h1>
