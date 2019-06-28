@@ -6,7 +6,7 @@ html, body{
 
 header{
 	background-color: #ff1a1a;
-	padding: 40px 40px 40px 40px;
+	padding: 40px 20px 40px 20px;
 	text-align: center;
 	color: #9C640C;
 }
@@ -34,6 +34,7 @@ header img{
 
 img.big-image{
 	max-width: 100%
+	font-size: 80px;
 }
 
 p.caption{
